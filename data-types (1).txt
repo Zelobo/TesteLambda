@@ -1,0 +1,72 @@
+/*
+   JS NATIVE TYPES
+
+   boolean
+   number
+   string
+   undefined
+   object
+   function
+   symbol
+*/
+
+
+// PRIMITIVE TYPES
+
+boolean
+   true
+   false
+
+number
+   -1
+   0
+   1
+   1.5
+   …
+
+string
+   ""
+   "a"
+   "1"
+   "a189rt3gyoug"
+   …
+
+undefined
+   undefined
+
+
+// REFERENCE TYPES (objects)
+
+object
+   null (primitive)
+   {…}
+   […]
+   new Constructor(…)
+
+function
+   function (…) {…}
+   function F (…) {…}
+   (…) => {…}
+
+symbol
+   Symbol(—)
+
+
+/*
+   JS DATA TYPES
+
+   undefined
+   null
+   boolean
+   number
+   string
+
+   OBJECTS
+   ~  function
+   ~  class
+   ~  error
+   ~  symbol
+   EXPRESSIONS+OPERATORS
+   STATEMENTS+DECLARATIONS
+
+*/

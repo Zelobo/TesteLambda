@@ -1,0 +1,20 @@
+{
+  "name": "jogodogalo",
+  "version": "1.0.0",
+  "description": "É o jogo do galo...",
+  "main": "JogoDoGalo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jogo",
+    "js",
+    "galo"
+  ],
+  "author": "Zéah",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "present": "^1.0.0"
+  }
+}

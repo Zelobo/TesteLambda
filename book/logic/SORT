@@ -1,0 +1,38 @@
+function Array () {
+    
+    this.filter = function (f) {
+        
+        let result = [];
+        
+        for (el in this) {
+        
+            if ( f(el) ) {
+                result.push(el);
+            }
+        
+        }
+        
+        return result;
+        
+    };
+    
+    this.sort = function (f) {
+    
+        let result = [];
+        
+        // some logic
+        
+        return result;
+    
+    };
+
+}
+
+ver arr = []; var arr = new Array();
+
+arr.filter( function(el) {
+
+    return el.corridas;
+
+} );
+
